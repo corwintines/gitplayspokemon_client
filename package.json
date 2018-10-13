@@ -18,8 +18,7 @@
     "url": "https://github.com/CSSmitty/gitplayspokemon_client/issues"
   },
   "homepage": "https://github.com/CSSmitty/gitplayspokemon_client#readme",
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "dependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
